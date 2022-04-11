@@ -1,0 +1,11 @@
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.AssemblyReference.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.SuggestedBindingRedirects.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.CoreCompileInputs.cache
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
+C:\Users\rs323\Desktop\Studying C#\My personal projects\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Calculadora.resources
